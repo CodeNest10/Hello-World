@@ -1,0 +1,2 @@
+print(2+3.4) #implicit conversion(automatically converts one data type into another)
+print(str(10)+" Apples") #explicit conversion(we manually convert from one data type to another by calling the relevant function ex.str)
